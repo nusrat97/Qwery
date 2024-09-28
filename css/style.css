@@ -1,0 +1,368 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,li{
+    list-style: none;
+    padding-left: 0;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+body{
+    background: black;
+}
+
+/* ================================
+        navbar part start
+=================================== */
+nav{
+    position: absolute !important;
+    width: 100%;
+    top: 33px;
+}
+
+nav ul li{
+    margin: o 15px;
+}
+
+nav ul li a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff !important;
+}
+
+nav i{
+    color: #fff;
+}
+
+nav input{
+    border: 0;
+    margin-left: 21px;
+    background: transparent;
+}
+
+nav input::placeholder{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff;
+}
+
+/* ================================
+        navbar part end
+=================================== */
+
+/* ================================
+        banner part start
+=================================== */
+#banner-part{
+    background: url(../images/banner.png) no-repeat center;
+    background-size: cover;
+    padding: 465px 0;
+}
+
+#banner-part p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+
+#banner-part h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 96px;
+    font-weight: 700;
+    color: #fff;
+}
+
+#banner-part h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 88px;
+    font-weight: 400;
+    color: #fff;
+}
+
+/* ================================
+        banner part end
+=================================== */
+
+/* ================================
+        holiday part start
+=================================== */
+#holiday-part{
+    margin-top: 286px;
+}
+
+#holiday-part .img{
+    margin-right: 30px;
+}
+
+#holiday-part img{
+    width: 100%;
+}
+
+#holiday-part .east{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-top: 40px;
+}
+
+#holiday-part h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    width: 496px;
+}
+
+#holiday-part .detail{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    width: 570px;
+    line-height: 32px;
+    margin-top: 35px;
+    text-transform: uppercase;
+}
+
+#holiday-part a{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    margin-top: 55px;
+    text-transform: uppercase;
+}
+
+/* ================================
+        holiday part end
+=================================== */
+
+/* ================================
+        together part start
+=================================== */
+
+#together-part{
+    margin-top: 295px;
+}
+
+#together-part .img{
+    background: url(../images/together.jpg) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    padding: 564px 0 40px;
+}
+
+#together-part .img .bromo{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+
+#together-part .img h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    width: 932px;
+    margin: 40px auto;
+}
+
+#together-part .img .detail{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 893px;
+    margin: 0 auto;
+}
+
+#together-part a{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    margin-top: 26px;
+    text-transform: uppercase;
+}
+
+/* ================================
+        together part end
+=================================== */
+
+/* ================================
+        people part start
+=================================== */
+#people-part{
+    margin-top: 286px;
+}
+
+#people-part img{
+    width: 100%;
+}
+
+#people-part .east{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-top: 50px;
+}
+
+#people-part h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+    width: 663px;
+    text-transform: uppercase;
+}
+
+#people-part .detail{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    width: 650px;
+    line-height: 32px;
+    margin-top: 35px;
+    text-transform: uppercase;
+}
+
+#people-part a{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC178;
+    margin-top: 55px;
+    text-transform: uppercase;
+}
+
+#people-part img{
+    margin-left: 20px;
+}
+
+/* ================================
+        people part end
+=================================== */
+
+/* ================================
+        footer part end
+=================================== */
+ 
+footer{
+    margin-top: 199px;
+}
+
+footer .gap{
+    margin-top: 100px;
+}
+
+footer img{
+    margin-top: 35px;
+}
+
+footer p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #fff;
+    display: inline-block;
+    margin-right: 34px;
+}
+
+footer a{
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #000;
+    background: #FFC178;
+    padding: 18px 67px;
+    border-radius: 10px;
+}
+
+footer h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #fff;
+}
+
+footer span{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    display: inline-block;
+    margin-right: 70px;
+    margin-top: 50px;
+}
+
+footer h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFC178;
+}
+
+footer .box{
+    margin-left: 25px;
+}
+
+footer ul li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    color: #fff;
+    margin: 20px 0;
+}
+
+footer .icons{
+    text-align: center;
+    margin-top: 160px;
+}
+
+footer i{
+    color: #fff;
+    margin: 0 15px;
+}
+
+footer .copy{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    margin: 80px 0 55px;
+}
+
+/* ================================
+        footer part end
+=================================== */
+
+
+

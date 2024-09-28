@@ -1,0 +1,418 @@
+@media (min-width: 320px) and (max-width:575px){
+    #banner-part p {
+        font-size: 14px;
+        margin-top: -190px;
+    }
+
+    #banner-part h2 {
+        font-size: 70px;
+    }
+
+    #banner-part h3 {
+        font-size: 55px;
+        line-height: 62px;
+    }
+
+    #banner-part{
+        padding: 465px 0 50px;
+    }
+
+    #holiday-part {
+        margin-top: 55px;
+    }
+
+    #holiday-part .img {
+        margin-right: 0;
+    }
+
+    #holiday-part .east {
+        font-size: 14px;
+        margin-top: 50px;
+    }
+
+    #holiday-part h2 {
+        font-size: 42px;
+        width: auto;
+    }
+
+    #holiday-part .detail {
+        width: auto;
+    }
+    
+    #holiday-part a {
+        font-size: 14px;
+        margin-top: 45px;
+    }
+
+    #together-part {
+        margin-top: 80px;
+    }
+
+    #together-part .img {
+        text-align: center;
+        padding: 180px 0 40px;
+    }
+
+    #together-part .img .bromo {
+        font-size: 14px;
+    }
+
+    #together-part .img h2 {
+        font-size: 42px;
+        width: auto;
+    }
+
+    #together-part .img .detail {
+        width: auto;
+    }
+
+    #together-part a {
+        font-size: 14px;
+    }
+
+    #people-part {
+        margin-top: 55px;
+    }
+
+    #people-part .east {
+        font-size: 14px;
+    }
+
+    #people-part h2 {
+        font-size: 42px;
+        width: auto;
+    }
+
+    #people-part .detail {
+        width: auto;
+    }
+
+    #people-part a {
+        font-size: 14px;
+        margin: 45px 0;
+    }
+
+    #people-part img {
+        margin-left: 0;
+    }
+
+    footer {
+        margin-top: 60px;
+    }
+
+    footer p {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    footer .gap {
+        margin-top: 55px;
+    }
+
+    footer span {
+        margin: 35px 15px 35px 0px;
+    }
+
+    footer h4 {
+        margin-top: 35px;
+    }
+
+    footer .box {
+        margin-left: 0;
+    }
+
+    footer .icons {
+        margin-top: 60px;
+    }
+
+    footer .copy {
+        margin: 30px 0 ;
+    }
+
+
+
+
+
+
+
+
+
+
+    /* ============================= */
+}
+
+
+
+@media (min-width: 576px) and (max-width:767px){
+    #banner-part {
+        padding: 280px 0;
+    }
+
+    #banner-part p {
+        font-size: 16px;
+    }
+
+    #holiday-part {
+        margin-top: 90px;
+    }
+
+    #holiday-part .img {
+        margin-right: 0;
+    }
+
+    #holiday-part .east {
+        font-size: 16px;
+    }
+
+    #holiday-part h2 {
+        font-size: 57px;
+        width: auto;
+    }
+
+    #holiday-part .detail {
+        width: auto;
+    }
+
+    #holiday-part a {
+        font-size: 16px;
+    }
+
+    #together-part {
+        margin-top: 100px;
+    }
+
+    #together-part .img {
+        text-align: center;
+        padding: 400px 0 40px; 
+    }
+
+    #together-part .img .bromo {
+        font-size: 16px;
+    }
+
+    #together-part .img h2 {
+        font-size: 57px;
+        width: auto;
+    }
+
+    #together-part .img .detail {
+        width: auto;
+    }
+
+    #together-part a {
+        font-size: 16px;
+    }
+
+    #people-part {
+        margin-top: 100px;
+    }
+
+    #people-part .east {
+        font-size: 16px;
+    }
+
+    #people-part h2 {
+        font-size: 52px;
+        width: auto;
+    }
+
+    #people-part .detail {
+        width: auto;
+    }
+
+    #people-part a {
+        font-size: 16px;
+        margin: 55px 0;
+    }
+
+    #people-part img {
+        margin-left: 0;
+    }
+
+    footer {
+        margin-top: 90px;
+    }
+
+    footer img {
+        margin: 35px 0;
+    }
+
+    footer .gap {
+        margin-top: 65px;
+    }
+
+    footer span {
+        margin: 25px 20px 35px 0;
+    }
+
+    footer .box {
+        margin-left: 0;
+    }
+
+    footer .icons {
+        margin-top: 50px;
+    }
+
+    footer .copy {
+        margin: 25px 0 35px;
+    }
+
+
+
+
+
+
+    /* ================================= */
+}
+
+
+
+@media (min-width: 768px) and (max-width:991px){
+    #banner-part {
+        padding: 279px 0;
+    }
+
+    #banner-part h2 {
+        font-size: 90px;
+    }
+
+    #banner-part h3 {
+        font-size: 71px;
+    }
+
+    #holiday-part {
+        margin-top: 80px;
+    }
+
+    #holiday-part .img {
+        margin-right: 0;
+    }
+
+    #holiday-part h2 {
+        width: auto;
+    }
+
+    #holiday-part .detail {
+        width: auto;
+    }
+
+    #together-part {
+        margin-top: 100px;
+    }
+
+    #together-part .img h2 {
+        width: auto;
+    }
+
+    #together-part .img .detail {
+        width: auto;
+    }
+
+    #people-part {
+        margin-top: 100px;
+    }
+
+    #people-part a {
+        margin: 55px 0;
+    }
+
+    #people-part img {
+        margin-left: 0;
+    }
+
+    footer {
+        margin-top: 100px;
+    }
+
+    footer img {
+        margin: 35px 0;
+    }
+
+    footer p {
+        margin-right: 60px;
+    }
+
+    footer .gap {
+        margin-top: 50px;
+    }
+
+    footer span {
+        margin: 25px 70px 55px 0;
+    }
+
+    footer .icons {
+        margin-top: 70px;
+    }
+
+    footer .copy {
+        margin: 35px 0 50px;
+    }
+
+
+
+
+
+
+
+    /* ========================== */
+}
+
+
+
+@media (min-width: 992px) and (max-width:1199px){
+    #banner-part {
+        padding: 350px 0;
+    }
+
+    #holiday-part {
+        margin-top: 200px;
+    }
+
+    #holiday-part .detail {
+        width: auto;
+    }
+
+    #holiday-part h2 {
+        font-size: 51px;
+        width: auto;
+    }
+
+    #together-part {
+        margin-top: 200px;
+    }
+
+    #people-part {
+        margin-top: 200px;
+    }
+
+    #people-part h2 {
+        font-size: 51px;
+        width: auto;
+    }
+
+    #people-part .detail {
+        width: auto;
+    }
+
+    #people-part img {
+        margin-left: 0;
+    }
+
+    footer {
+        margin-top: 130px;
+    }
+
+    footer .icons {
+        margin-top: 120px;
+    }
+
+    footer .copy {
+        margin: 40px 0 55px;
+    }
+
+
+
+
+
+    /* ============================ */
+}
